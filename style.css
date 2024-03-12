@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+header {
+    /* text-align: -webkit-center; */
+    /* width: 351px;
+    height: 113px;  */
+}
+nav {
+    height: auto;
+    width: 1718px;
+    text-align: center;
+    background-color: rgb(216, 216, 216);
+    margin-left:auto; 
+    margin-right:auto;
+}
+.p1 {
+    padding: 2px 270px; 
+}
+.p2 {
+    padding: 2px 135px;
+}
+.f13 {
+    font-size: 13px;
+}
+.bg1 {
+    background-color: #7ee5da;
+}
+.bg2 {
+    background-color: #70CCC2;
+}
+.bg3 {
+    background-color: #62b3aa;
+}
+table {
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto;
+}
+.footer {
+    padding: 16px 0px ;
+}
